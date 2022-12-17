@@ -6,11 +6,11 @@ WordPress Plugin Development series এ আপনাকে স্বাগতম
 ## ⏳ Prerequisite
 You need following skills to start with
 - [HTML (Hyper Text Markup Language)](https://youtu.be/BSvo4i5t-Kg)
-- [CSS] (https://youtube.com/playlist?list=PLSNRR4BKcowA9IsN4F5utx7OlWUdN0RZV)
+- [CSS](https://youtube.com/playlist?list=PLSNRR4BKcowA9IsN4F5utx7OlWUdN0RZV)
 - [JavaScript](https://youtu.be/HouzPhGpeGs)
 - [PHP](https://youtu.be/_TST9dVptls)
 - [Bootstrap (Not Mandatory)](https://youtu.be/8ia2D1aTYWc)
-- [WordPress Theme Development] (https://youtu.be/sni9ZUIJDhY)
+- [WordPress Theme Development](https://youtu.be/sni9ZUIJDhY)
 
 ## 🎯Table of Content
 
