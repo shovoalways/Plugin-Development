@@ -13,17 +13,27 @@ You need following skills to start with
 - [WordPress Theme Development](https://youtu.be/sni9ZUIJDhY)
 
 ## 🎯Table of Content
-
  - [👉 WordPress Plugin Development Roadmap](#)
  - [01. Plugin Structure](#)
 
 
-## 🧑‍💻 Contributors
-- [@Ali Hossain](https://github.com/shovoalways/)
+## 🍕 Resources
+ - [Upload Plugin to WordPress.org](https://wordpress.org/plugins/developers/add/)
+ - [Plugin Assets Guide](https://developer.wordpress.org/plugins/wordpress-org/plugin-assets/)
+ - [SVN Upload Guide](https://developer.wordpress.org/plugins/wordpress-org/how-to-use-subversion/)
+ 
+## Assets Folder File Instruction 👇
+ - banner-772x250.png
+ - icon-256x256.png
+ - screenshot-1.png   👉 900x500
 
 
 ## Course URL (Playlist)👇
  - [WordPress Plugin Development](#)
+
+
+## 🧑‍💻 Contributors
+- [@Ali Hossain](https://github.com/shovoalways/)
 
 
 ## 🥰 Follow me
