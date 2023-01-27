@@ -36,7 +36,7 @@ You need following skills to start with
 
 
 ## Course URL (Playlist)👇
- - [WordPress Plugin Development](#)
+ - [WordPress Plugin Development](https://www.youtube.com/watch?v=bgV-OBceMoE&list=PLSNRR4BKcowCkeAxfdtTsLqwR0LJYwDaz)
 
 
 ## 🧑‍💻 Contributors
