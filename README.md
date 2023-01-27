@@ -12,8 +12,15 @@ You need following skills to start with
 - [Bootstrap (Not Mandatory)](https://youtu.be/8ia2D1aTYWc)
 - [WordPress Theme Development](https://youtu.be/sni9ZUIJDhY)
 
+## 📚 What You will learn
+- Create a plugin from scratch
+- Plugin Architecture
+- Custom Plugin Option
+- How to upload plugin on WordPress.org
+- How to update plugin on WordPress.org
+
 ## 🎯Table of Content
- - [👉 WordPress Plugin Development Roadmap](#)
+ - [👉 WordPress Plugin Development Roadmap](https://youtu.be/bgV-OBceMoE)
  - [01. Plugin Structure](#)
 
 
