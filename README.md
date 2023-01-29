@@ -22,6 +22,7 @@ You need following skills to start with
 ## 🎯Table of Content
  - [👉 WordPress Plugin Development Roadmap](https://youtu.be/bgV-OBceMoE)
  - [01. Plugin Structure](https://youtu.be/pJZWgAWu7LQ)
+ - [02. Plugin Info Setup](https://youtu.be/4ITOqkqU5IM)
 
 
 ## 🍕 Resources
