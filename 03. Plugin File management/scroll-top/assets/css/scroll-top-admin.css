@@ -1,0 +1,33 @@
+.scroll-top-settings .inside img {
+  width: 100%;
+}
+
+.scroll-top-settings .form-table tr:nth-child(5) {
+  display: none;
+}
+
+.scroll-top-settings .checkbox-img label input[type="radio"] {
+  vertical-align: top;
+  margin-top: 2px;
+}
+
+.form-table td fieldset.scroll-top-vertical label {
+  display: inline-block;
+  margin-right: 2em !important;
+}
+
+.scroll-top-demo {
+  width: 40px;
+  height: 40px;
+  background: #000;
+  display: inline-block;
+  text-align: center;
+}
+
+.scroll-top-demo-rounded {
+  border-radius: 3px;
+}
+
+.scroll-top-demo-circle {
+  border-radius: 50%;
+}
