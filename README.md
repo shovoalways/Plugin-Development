@@ -25,6 +25,7 @@ You need following skills to start with
  - [02. Plugin Info Setup](https://youtu.be/4ITOqkqU5IM)
  - [03. Plugin File management](https://youtu.be/Ik9Zer6AW5U)
  - [04. Plugin File management](https://youtu.be/2NcPceU_2F4)
+ - [05. Plugin function customization](https://youtu.be/e3i9QhsEufw)
 
 
 ## 🍕 Resources
