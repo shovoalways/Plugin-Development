@@ -27,7 +27,18 @@ You need following skills to start with
  - [04. Plugin File management](https://youtu.be/2NcPceU_2F4)
  - [05. Plugin function customization](https://youtu.be/e3i9QhsEufw)
  - [06. Upload plugin to wordpress](https://youtu.be/4VJ4tjAxXiI)
-
+ - [07. Upload plugin A2Z](https://youtu.be/AXDJcTfLwME)
+ - [08. Update Plugin](https://youtu.be/7lV_y9wqyiY)
+ - [09. Basic Structure](https://youtu.be/A3idnTr8WeE)
+ - [10. Plugin Page Creation](https://youtu.be/VLBbuZLb29w) 
+ - [11. Static Plugin Creation](https://youtu.be/B0C8t7iJ8Gs)  
+ - [12. Plugin Custom Option Page](https://youtu.be/7MPKHlm3CzM) 
+ - [13. Plugin Options Page Design](https://youtu.be/CMPqNH2Cujw)  
+ - [14. Plugin Option](https://youtu.be/ERks38ZFPOI)  
+ - [15. Plugin Upload](https://youtu.be/MCqFNpgYgQs) 
+ - [16. Plugin Upload](https://youtu.be/833Jshhd3Z0)  
+ - [17. Final Video](https://youtu.be/UQ_eOY4cZlc)  
+ 
 
 ## 🍕 Resources
  - [Upload Plugin to WordPress.org](https://wordpress.org/plugins/developers/add/)
