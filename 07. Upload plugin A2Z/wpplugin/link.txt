@@ -1,0 +1,30 @@
+Upload Plugin to WordPress.org 👇
+=============================================
+https://wordpress.org/plugins/developers/add/
+
+
+Plugin Assets Guide 👇
+======================
+https://developer.wordpress.org/plugins/wordpress-org/plugin-assets/
+
+
+SVN Upload Guide 👇
+============================
+https://developer.wordpress.org/plugins/wordpress-org/how-to-use-subversion/
+
+
+Plugin URL 😍
+===================================
+https://wordpress.org/plugins/simple-scroll-top-wp/
+
+
+Assets Folder File Instruction 👇
+=====================================
+banner-772x250.png
+icon-256x256.png
+screenshot-1.png   👉 900x500
+
+
+
+For Windows, I recommend TortoiseSVN 👉 https://tortoisesvn.net/
+For Mac, 👉 https://www.openhub.net/p/scplugin

@@ -1,0 +1,77 @@
+body.login {
+  background: url(../img/login.jpg);
+  display: flex;
+  align-items: center;
+}
+body.login #login {
+  background: rgba(255, 255, 255, 0.5);
+  padding: 40px;
+  border-radius: 25px;
+}
+body.login #loginform {
+  background: none;
+  border: 0;
+  box-shadow: none;
+  padding: 0;
+}
+#login form p.submit {
+  display: block;
+}
+#login form p.submit input {
+  display: block;
+  width: 100%;
+  margin-top: 10px;
+  background: #ea1a70;
+  border: 0;
+  padding: 10px;
+  font-size: 15px;
+  transition: 0.5s;
+}
+#login form p.submit input:hover {
+  background: #262626;
+  color: #fff;
+}
+.login #nav {
+  margin: 0;
+  margin-top: 10px;
+  width: 40%;
+  float: left;
+  padding: 0;
+}
+.login #nav a {
+  margin-top: 5px;
+  display: inline-block;
+}
+.login #backtoblog {
+  margin: 0;
+  margin-top: 10px;
+  width: 60%;
+  float: right;
+  text-align: right;
+  padding: 0;
+}
+.login #backtoblog a {
+  display: inline-block;
+  background: #003ecb;
+  color: #fff;
+  padding: 6px 15px;
+  border-radius: 5px;
+  transition: 0.5s;
+}
+.login #backtoblog a:hover {
+  background: #262626;
+  color: #fff;
+}
+.login #login_error,
+.login .message,
+.login .success {
+  border-left: 4px solid #ea1a70;
+}
+input#user_login,
+input#user_pass {
+  border: 0;
+  border-left: 4px solid #ea1a70;
+  padding: 10px;
+  font-size: 14px;
+  border-radius: 0;
+}

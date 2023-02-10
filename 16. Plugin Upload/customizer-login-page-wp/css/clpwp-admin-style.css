@@ -1,0 +1,98 @@
+.cplwp_main_area {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1000px;
+  width: 90%;
+  box-sizing: border-box;
+  margin-top: 25px;
+}
+.clpwp_common {
+  background: #fff;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  padding: 20px 25px;
+}
+.clpwp_body_area {
+  flex-basis: 70%;
+  margin-right: 5%;
+}
+.clpwp_sidebar_area {
+  flex-basis: 25%;
+}
+.clpwp_sidebar_area .btn {
+  background: #fd0000;
+  color: #fff;
+  display: inline-block;
+  padding: 10px 35px;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: 0.5s;
+}
+.clpwp_sidebar_area .btn:hover {
+  background: #c23616;
+}
+.cplwp_main_area h3#title {
+  display: block;
+  font-weight: bold;
+  font-size: 25px;
+  padding: 10px;
+  border-left: 5px solid #bd5fff;
+  margin-bottom: 20px;
+  margin-top: 5px;
+}
+.cplwp_main_area h5#title {
+  display: block;
+  font-weight: bold;
+  font-size: 18px;
+  padding: 10px;
+  border-left: 5px solid #fd0000;
+  margin-bottom: 20px;
+  margin-top: 5px;
+}
+
+.cplwp_main_area label {
+  display: block;
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.cplwp_main_area small {
+  color: #636e72;
+  display: block;
+  font-weight: bold;
+  font-size: 12px;
+  margin-bottom: 15px;
+}
+
+.cplwp_main_area input {
+  display: block;
+  font-weight: bold;
+  font-size: 14px;
+  margin-bottom: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 0 10px #ddd;
+  width: 90%;
+  padding: 15px;
+}
+.cplwp_main_area input[type="color"] {
+  padding: 5px;
+  cursor: pointer;
+  width: 100px;
+  height: 70px;
+}
+.cplwp_main_area input[type="submit"] {
+  background: #bd5fff;
+  border: 1px solid #bd5fff;
+  color: #fff;
+  padding: 8px 35px;
+  width: auto;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.cplwp_main_area input[type="submit"]:hover {
+  background: #262626;
+  border: 1px solid #262626;
+  /* color: #fff; */
+}
